@@ -1,0 +1,10 @@
+Intermediate Answers :
+f(0) = c(40)
+f(1) = c(41)
+f(2) = c(48)
+f(3) = c(67)
+f(4) = c(104)
+f(5) = c(164)
+Sum of all values of f(x) = c(464) = 1
+Final Answer :
+The Value of c is 0.00215517

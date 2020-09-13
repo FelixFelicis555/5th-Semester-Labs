@@ -1,0 +1,7 @@
+Intermediate Answers :
+P(Fail/Apple): 0.0025
+P(Apple): 0.35
+P(Fail): 0.354167
+
+Final Answer :
+P(Apple/Fail): 0.247059

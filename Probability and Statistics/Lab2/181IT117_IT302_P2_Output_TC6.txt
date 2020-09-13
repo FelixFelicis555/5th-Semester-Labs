@@ -1,0 +1,7 @@
+Intermediate Answers :
+P(Fail/Orange): 0.00142857
+P(Orange): 0.1
+P(Fail): 0.184286
+
+Final Answer :
+P(Orange/Fail): 0.0775194

@@ -1,0 +1,9 @@
+NOTE: Sir clarified in the doubt session that that m = 0 case is VALID.
+Therefore the value of 0^0 will be assumed as 1 in this case
+Intermediate Answers :
+f(0) = c(11)
+f(1) = c(11)
+f(2) = c(11)
+Sum of all values of f(x) = c(33) = 1
+Final Answer :
+The Value of c is 0.030303

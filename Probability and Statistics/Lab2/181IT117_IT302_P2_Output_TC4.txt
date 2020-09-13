@@ -1,0 +1,7 @@
+Intermediate Answers :
+P(Fail/Grape): 0.0025
+P(Grape): 0.1
+P(Fail): 0.265
+
+Final Answer :
+P(Grape/Fail): 0.0943396

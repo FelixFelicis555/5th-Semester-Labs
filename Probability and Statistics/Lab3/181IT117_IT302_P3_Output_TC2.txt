@@ -1,0 +1,8 @@
+Intermediate Answers :
+f(0) = c(20)
+f(1) = c(21)
+f(2) = c(22)
+f(3) = c(23)
+Sum of all values of f(x) = c(86) = 1
+Final Answer :
+The Value of c is 0.0116279

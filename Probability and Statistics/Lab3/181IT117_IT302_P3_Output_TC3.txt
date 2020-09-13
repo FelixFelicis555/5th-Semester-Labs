@@ -1,0 +1,9 @@
+Intermediate Answers :
+f(0) = c(30)
+f(1) = c(31)
+f(2) = c(34)
+f(3) = c(39)
+f(4) = c(46)
+Sum of all values of f(x) = c(180) = 1
+Final Answer :
+The Value of c is 0.00555556

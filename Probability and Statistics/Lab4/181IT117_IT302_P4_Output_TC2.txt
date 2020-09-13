@@ -1,0 +1,26 @@
+
+Intermediate Results:
+Total number of ways of selecting 2 pens = 55
+Joint Probability Distribution for f(x,y):
+f(0,0)= 10/55= 0.181818
+f(0,1)= 15/55= 0.272727
+f(0,2)= 3/55= 0.0545455
+f(1,0)= 15/55= 0.272727
+f(1,1)= 9/55= 0.163636
+f(1,2)= 0/55= 0
+f(2,0)= 3/55= 0.0545455
+f(2,1)= 0/55= 0
+f(2,2)= 0/55= 0
+
+Marginal Probabilities:
+For X :
+h(0)=28/55
+h(1)=24/55
+h(2)=3/55
+
+For Y :
+g(0)=28/55
+g(1)=24/55
+g(2)=3/55
+
+Joint probability function: f(x,y)=C(3,x)*C(3,y)*C(5,2-x-y)/C(11,2)
