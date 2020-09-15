@@ -1,0 +1,27 @@
+
+Intermediate Results:
+Total number of ways of selecting 5 fruits = 462
+Joint Probability Distribution for f(x,y):
+   f(0,0)= 0.0000   f(0,1)= 0.0000   f(0,2)= 0.0065   f(0,3)= 0.0065   f(0,4)= 0.0000   f(0,5)= 0.0000
+   f(1,0)= 0.0000   f(1,1)= 0.0325   f(1,2)= 0.0974   f(1,3)= 0.0325   f(1,4)= 0.0000
+   f(2,0)= 0.0216   f(2,1)= 0.1948   f(2,2)= 0.1948   f(2,3)= 0.0216
+   f(3,0)= 0.0649   f(3,1)= 0.1948   f(3,2)= 0.0649
+   f(4,0)= 0.0325   f(4,1)= 0.0325
+   f(5,0)= 0.0022
+
+Marginal Probabilities:
+For X :
+   g(0)= 0.0130   g(1)= 0.1623   g(2)= 0.4329   g(3)= 0.3247   g(4)= 0.0649   g(5)= 0.0022
+
+For Y :
+   h(0)= 0.1212   h(1)= 0.4545   h(2)= 0.3636   h(3)= 0.0606   h(4)= 0.0000   h(5)= 0.0000
+
+Expected Value E(XY) = 2.7273
+
+Mean of x uX = 2.2727
+
+Mean of y uY = 1.3636
+
+
+Final Result:
+Cov(X,Y) = E(XY) - uX*uY = -0.3719
